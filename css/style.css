@@ -14,6 +14,7 @@
     --red: #FD511A;
     --green: #21B573;
     --black: #000000;
+    --white: #FFFFFF;
     --bgc:  #F0FFF0;
 
 }
@@ -29,6 +30,7 @@ body{
 
 /* header start */
 header{
+    padding: 17px 0;
     background-color: var(--bgc) ;
 
 }
@@ -53,9 +55,23 @@ header{
     color: var(--red) !important;
 }
 .btn_c{
+    background-color: var(--green);
+    color: var(--white);
+    font-family: var(--rob);   
+    line-height: 18px;
+    border-radius: 33px;
+    border: 0;
 
 }
 .btn_sign{
+    margin-left: 10px;
+    padding: 12px 25px;
+    width: 105px;
+    height: 45px;
     
+}
+.btn_c:hover, .btn_c:active{
+    color: var(--white) !important;
+    background-color: var(--red) !important;
 }
 /* header end */
