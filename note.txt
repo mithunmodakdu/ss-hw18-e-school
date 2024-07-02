@@ -1,0 +1,13 @@
+color:
+    red          #FD511A
+    green        #21B573
+    black        #000000
+    honeydew     #F0FFF0
+
+
+fonts:
+    Poppins 400 500 700
+    Roboto 400
+
+    font-family: "Poppins", sans-serif;
+    font-family: "Roboto", sans-serif;
