@@ -75,3 +75,26 @@ header{
     background-color: var(--red) !important;
 }
 /* header end */
+
+
+/* banner start */
+.banner{
+    background-color: var(--bgc);
+}
+
+.b_text{}
+.bp1{
+    color: var(--red);
+}
+.bh1{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+}
+.bp2{}
+.btn_banner{}
+
+.b_img{}
+.b_img img{}
+
+/* banner end */
