@@ -34,15 +34,7 @@ header{
     background-color: var(--bgc) ;
 
 }
-.m_nav{
 
-}
-.logo{
-
-}
-.menu{
-
-}
 .menu ul li a{
     padding: 0 25px !important;
     font-size: 16px;
@@ -83,7 +75,7 @@ header{
     background-color: var(--bgc);
 }
 
-.b_text{}
+
 .bp1{
     color: var(--red);
     margin-bottom: 10px;
@@ -108,7 +100,42 @@ header{
     padding: 12px 36px;
 }
 
-.b_img{}
-.b_img img{}
-
 /* banner end */
+
+
+
+/* feature start */
+
+.c_padd{
+    padding-bottom: 100px;
+}
+.s_feature{
+    margin: 40px 0 0;
+    padding: 55px 0 50px;
+    background-color: var(--bgc);
+    text-align: center;
+    border-radius: 10px;
+    transition: .33s linear;
+}
+.s_feature:hover{
+    background-color: var(--white);
+    box-shadow: 0px 20px 40px 0px #0000001A;
+
+}
+.s_img{
+    width: 65px;
+    height: 85px;
+    
+}
+
+.s_h2{
+    margin: 22px 0 0;
+    font-size: 24px;
+    font-weight: 500;
+    color: var(--black);
+    line-height: 36px;
+
+}
+
+
+/* feature end */
