@@ -79,20 +79,34 @@ header{
 
 /* banner start */
 .banner{
+    padding: 0 0 65px;
     background-color: var(--bgc);
 }
 
 .b_text{}
 .bp1{
     color: var(--red);
+    margin-bottom: 10px;
 }
 .bh1{
+    margin: 10px 0 20px;
+    padding: 0 40px 0 0;
     font-size: 48px;
     font-weight: 700;
     line-height: 70px;
+    
 }
-.bp2{}
-.btn_banner{}
+.bh1 span{
+    color: var(--green);
+}
+.bp2{
+    color: #6C6B6B;
+    line-height: 36px;
+}
+.btn_banner{
+    margin: 15px 0 0;
+    padding: 12px 36px;
+}
 
 .b_img{}
 .b_img img{}

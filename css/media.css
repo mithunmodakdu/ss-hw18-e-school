@@ -1,77 +1,148 @@
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
     
-    /* header start */
-    header{
-        padding: 0;
-    }
+/* header start */
+header{
+    padding: 0;
+}
 
-    .logo {
-        width: 170px;
-    }
+.logo {
+    width: 170px;
+}
 
-    .menu ul li a {
-        margin-bottom: 10px;
-        padding: 0 12px !important;
-    }
+.menu ul li a {
+    margin-bottom: 10px;
+    padding: 0 12px !important;
+}
 
-    .btn_sign {
-        margin-left: 0;
-    }
+.btn_sign {
+    margin-left: 0;
+}
+/* header end */
 
 
-    /* header end */
+/* banner start */
+.banner {
+    padding: 0 0 60px;
+    
+}
+.b_text {
+    text-align: center;
+}
+
+.bh1 {
+    font-size: 30px;
+    line-height: 50px;
+    padding: 0;
+
+}
+.bp2 {
+    padding: 0;
+    line-height: 24px;
+}
+
+.b_img {
+    margin-bottom: 30px;
+    padding: 0;
+}
+/* banner end */
 
 }
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) { 
-    /* header start */
-    header{
-        padding: 0;
-    }
+/* header start */
+header{
+    padding: 0;
+}
 
-    .logo {
-        width: 180px;
-    }
+.logo {
+    width: 180px;
+}
 
-    .menu ul li a {
-        margin-bottom: 10px;
-        padding: 0 12px !important;
-    }
+.menu ul li a {
+    margin-bottom: 10px;
+    padding: 0 12px !important;
+}
+
+.btn_sign {
+    margin-left: 0;
+}
+
+
+/* header end */
+
+/* banner start */
+.banner {
+    padding: 0 0 60px;
     
-    .btn_sign {
-        margin-left: 0;
-    }
+}
+.b_text {
+    text-align: center;
+}
 
-  
-    /* header end */
+.bh1 {
+    font-size: 35px;
+    line-height: 50px;
+    padding: 0 70px;
+
+}
+.bp2 {
+    padding: 0 50px;
+    line-height: 24px;
+}
+
+.b_img {
+    margin-bottom: 30px;
+    padding: 0 20px;
+}
+/* banner end */
 
  }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) { 
-  /* header start */
-  header{
-    padding: 10px 0;
-  }
-  .menu ul li a {
+/* header start */
+header{
+padding: 10px 0;
+}
+.menu ul li a {
     margin-bottom: 10px;
     padding: 0 12px !important;
-    }
+}
 
-  .btn_sign {
+.btn_sign {
     margin-left: 0;
-  }
+}
 
-  /* header end */
+/* header end */
+
+/* banner start */
+.b_text {
+    text-align: center;
+}
+
+.bh1 {
+
+    padding: 0 90px;
+
+}
+.bp2 {
+    padding: 0 90px;
+}
+
+.b_img {
+    margin-bottom: 30px;
+    padding: 0 50px;
+}
+/* banner end */
 
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199.98px) { 
 
-
+    
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
@@ -83,5 +154,12 @@
 /* Extra extra large devices (large desktops, 1400px and up) */
 @media (min-width: 1400px) { 
 
+/* banner start */
+.bh1{
+margin: 10px 0 20px;
+padding: 0 100px 0 0;
+
+}
+/* banner end */
 
  }
