@@ -195,5 +195,16 @@ header{
 
 
 /* testimony start */
+.t_item{
+    margin-top: 60px;
+}
+
+.t_img{}
+.t_img img{
+    width: 100%;
+}
+
+.t_text{}
+.t_text p{}
 
 /* testimony end */

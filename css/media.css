@@ -92,6 +92,18 @@ header{
 }
 /* course end */
 
+/* testimony start */
+.t_img {
+    padding: 0 60px 20px;
+}
+.t_text{
+    text-align: center;
+}
+.t_item{
+    margin-top: 30px;
+}
+/* testimony end */
+
 
 }
 
@@ -190,6 +202,20 @@ header{
 }
 /* course end */
 
+/* testimony start */
+.t_img {
+    padding: 0 120px 20px;
+}
+.t_text{
+    text-align: center;
+}
+.t_item{
+    margin-top: 30px;
+}
+/* testimony end */
+
+
+
  }
 
 
@@ -246,6 +272,13 @@ padding: 10px 0;
 }
 
 /* course end */
+
+/* testimony start */
+.t_item{
+    margin-top: 40px;
+}
+
+/* testimony end*/
 
 
 
