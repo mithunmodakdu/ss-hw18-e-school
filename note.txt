@@ -11,3 +11,11 @@ fonts:
 
     font-family: "Poppins", sans-serif;
     font-family: "Roboto", sans-serif;
+
+
+    Course
+Graphic Design
+Web Design
+Business
+Marketing
+Engineering

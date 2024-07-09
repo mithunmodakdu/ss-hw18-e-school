@@ -104,6 +104,21 @@ header{
 }
 /* testimony end */
 
+/* footer top start */
+.footer_top {
+    text-align: center;
+    padding: 55px 0 20px
+}
+.ft_details {
+    margin-bottom: 35px;
+    padding-right: 0;
+}
+.ft_links {
+    margin-bottom: 35px;
+}
+
+/* footer top end */
+
 
 }
 
@@ -214,6 +229,17 @@ header{
 }
 /* testimony end */
 
+/* footer top start */
+.footer_top {
+    text-align: center;
+}
+.ft_details {
+    margin-bottom: 35px;
+    padding-right: 70px;
+    padding-left: 70px;
+}
+/* footer top end */
+
 
 
  }
@@ -280,6 +306,17 @@ padding: 10px 0;
 
 /* testimony end*/
 
+/* footer top start */
+.footer_top {
+    text-align: center;
+}
+.ft_details {
+    margin-bottom: 35px;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+/* footer top end */
+
 
 
 
@@ -330,5 +367,13 @@ padding: 0 100px 0 0;
 
 }
 /* banner end */
+
+/* footer top start */
+.ft_details {
+    padding-right: 130px;
+}
+/* footer top end */
+
+
 
  }
